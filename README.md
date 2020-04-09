@@ -1,13 +1,9 @@
 # VUWIT16A_WebMXH
-# ĐỀ TÀI WEBSITE MẠNG XÃ HỘI
+Thông tin đề tài
 Học phần: Các phương pháp phát triển phần mềm nhanh
-
 Thành viên:
-
--Bàn Phúc Mạnh
-
--Nguyễn Bá Nam
-
+•	Bàn Phúc Mạnh – 20176100
+•	Nguyễn Bá Nam – 20176103
+Mã lớp chuyên ngành: VUWIT16A
 Ngôn ngữ sử dụng: 
-
--PHP
+•	PHP
