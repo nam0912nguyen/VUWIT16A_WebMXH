@@ -14,9 +14,13 @@ Mã lớp chuyên ngành: VUWIT16A
 Ngôn ngữ sử dụng: 
 
 •	PHP
+
 • CSS
+
 • JavaScript
+
 • HTML
+
 Tài liệu tham khảo: </br>
 • Sprint Planning: https://docs.google.com/spreadsheets/d/1nMCeiPHfhkQ2uXNAU5vgqxuIFOqBlPZ13foSj2ghJrQ/edit?usp=sharing </br>
 • QnA: https://docs.google.com/spreadsheets/d/1VLDPIoz0htGCayvYtYLQg9mAohUEJCXsie6jJ4m3DYA/edit?usp=sharing
