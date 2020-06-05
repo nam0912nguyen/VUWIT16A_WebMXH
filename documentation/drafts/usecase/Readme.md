@@ -16,13 +16,17 @@ Các chức năng của User:
 
 (5) Gửi report
 
+(6) Tìm kiếm
+
+(7) Xem bài viết
+
 Các chức năng của Admin:
 
 (1) Đăng nhập
 
-(6) Chỉnh sửa hệ thống
+(8) Chỉnh sửa hệ thống
 
-(7) Quản lý hệ thống </br></br>
+(9) Quản lý hệ thống </br></br>
 Usecase tổng quát:
 ![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/Usecase%20Tổng%20quát.PNG)
 </br></br>
