@@ -26,6 +26,8 @@ Các chức năng của Admin:
 Usecase tổng quát:
 ![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/Usecase%20Tổng%20quát.PNG)
 </br></br>
+Usecase admin chi tiết:
 ![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/usecase%20admin%20chi%20tiết.png)
 </br></br>
+Usecase user chi tiết:
 ![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/Usecase%20user%20chi%20tiết.PNG)
