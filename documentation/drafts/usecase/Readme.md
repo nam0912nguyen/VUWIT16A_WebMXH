@@ -28,7 +28,7 @@ Các chức năng của Admin:
 
 (9) Quản lý hệ thống </br></br>
 Usecase tổng quát:</br></br>
-![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/Usecase%20Tổng%20quát.PNG)</br></br>
+![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/Usecase%20tổng%20quát.PNG)</br></br>
 Usecase admin chi tiết:</br></br>
 ![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/usecase/usecase%20admin%20chi%20tiết.png)</br></br>
 Usecase user chi tiết:</br></br>
