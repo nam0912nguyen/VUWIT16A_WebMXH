@@ -1,4 +1,4 @@
-Hoạt động đăng ký tài khoản:
+Hoạt động đăng ký tài khoản:</br></br>
 ![alt text](https://github.com/nam0912nguyen/VUWIT16A_WebMXH/blob/master/documentation/drafts/activity/Activity%20Đăng%20ký.png)
 </br></br>
 Hoạt động đăng nhập:
